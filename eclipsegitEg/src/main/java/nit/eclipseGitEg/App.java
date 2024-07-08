@@ -12,5 +12,6 @@ public class App
         System.out.println("working with eclipse git");
         System.out.println("testing not yet done properly");
         System.out.print("test of child branch");
+        System.out.println("from child 2nd branch");
         }
 }
